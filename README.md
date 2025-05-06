@@ -13,3 +13,5 @@ And after this i have commit the changes and resolved the merge conflict
 
 
 
+# 4th Assignment
+Husky and lint-staged are powerful tools that help maintain clean and consistent code in a project. Husky automates the process of running checks during Git actions, like before committing or pushing code. It essentially acts as a safety net to ensure certain tasks, such as linting or testing, are done automatically. lint-staged works hand-in-hand with Husky, ensuring that only the files you’ve changed (staged for commit) are checked or formatted, making the process faster and more efficient. Together, these tools ensure that your code adheres to coding standards and avoids potential mistakes, all before it even gets committed to the repository.
